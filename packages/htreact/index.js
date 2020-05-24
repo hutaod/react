@@ -1,3 +1,1 @@
-export {
-
-} from "./src/React"
+export { createElement } from './src/React'
